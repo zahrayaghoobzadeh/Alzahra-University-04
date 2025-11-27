@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'peyda';
+    src: url(../fonts/woff/PeydaWeb-Medium.woff);
+}
+@font-face {
+    font-family: 'vazir';
+    src: url(../fonts/vazir/Vazirmatn-Medium.woff2);
+}
+@font-face {
+    font-family: 'vazir-regular';
+    src: url(../fonts/vazir/Vazirmatn-Regular.woff2);
+}
+@font-face {
+    font-family: 'vazir-thin';
+    src: url(../fonts/vazir/Vazirmatn-Thin.woff2);
+}
+@font-face {
+    font-family: 'vazir-light';
+    src: url(../fonts/vazir/Vazirmatn-Light.woff2);
+}
+@font-face {
+    font-family: 'vazir-bold';
+    src: url(../fonts/vazir/Vazirmatn-Bold.woff2);
+}
